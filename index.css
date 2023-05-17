@@ -19,6 +19,7 @@ h1 {
     color: #ffffff;
     font-weight: bold;
     transition: color 0.3s;
+    text-shadow: 1px 1px 7px black;
   }
   
   nav a:hover {
